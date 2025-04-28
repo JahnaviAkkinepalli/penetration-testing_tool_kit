@@ -47,4 +47,4 @@ Modular Design: Each tool (scanner/brute-forcer/vuln-scanner) is a separate func
 
 Extensible: You can add new modules (like FTP brute-force, web directory brute-force, etc.) easily by following the same structure.
 
-![Image](https://github.com/user-attachments/assets/0e033a71-b0c3-42ae-af80-f55d0e3a14d3)
+![Image](https://github.com/user-attachments/assets/6cfa38ad-b9ec-4b01-8fc4-fedf3f7c7a40)
